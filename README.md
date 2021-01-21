@@ -3,4 +3,4 @@ This is a website build entirely with HTML and CSS using Bootstrap 4.
 ### First look
 ___
 
-<img src="githubSources/Jupiter-Suministros.png" alt="">
+<img src="githubSources/Jupiter-Suministros.png">
